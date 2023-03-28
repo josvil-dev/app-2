@@ -18,7 +18,7 @@ const Main = () => {
           </p>
           <div className="flex md:flex-row items-center justify-between max-w-[330px] m-auto py-8">
             <a href="" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Resume</a>
-            <a href="" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Hire Me </a>
+            <a href="/contact" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Hire Me </a>
           </div>
           </div>
         </div>
