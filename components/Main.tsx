@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 
@@ -17,8 +18,8 @@ const Main = () => {
           My biggest committment lies in creating, educating and empowering. I believe empowerment is the true key to unlocking potential
           </p>
           <div className="flex md:flex-row items-center justify-between max-w-[330px] m-auto py-8">
-            <a href="" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Resume</a>
-            <a href="/contact" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Hire Me </a>
+            <Link href="" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Resume</Link>
+            <Link href="/" className="bg-blue-600 px-4 py-2 rounded-lg ml-4 text-xl ">Hire Me </Link>
           </div>
           </div>
         </div>
