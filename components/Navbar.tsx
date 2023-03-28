@@ -82,7 +82,7 @@ const Navbar = () => {
                         </ul>
                         <div className="pt-40">
                             <p className="uppercase tracking-widest text-gray-200 font-bold"> lets connect</p>
-                            <div className="flex items-center justify-between my-4 sm:w-[80%]">
+                            {/* <div className="flex items-center justify-between my-4 sm:w-[80%]">
                                 <div className="rounded-full shadow-lg bg-slate-500 shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
                                     <FaLinkedinIn />
                                 </div>
@@ -94,8 +94,8 @@ const Navbar = () => {
                                 </div>
                                 <div className="rounded-full shadow-lg bg-slate-500 shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in duration-300">
                                     <FaLinkedinIn />
-                                </div>
-                            </div>
+                                </div> */}
+                            {/* </div> */}
                         </div>
                     </div>
                 </div>

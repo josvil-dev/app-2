@@ -23,12 +23,7 @@ const Contact = () => {
                                 <h2 className="text-[45px] lg:text[90px] leading-none mb-12">
                                     Lets work <br /> together!
                                 </h2>
-                                <div className="text-sm flex gap-4 py-1 text-blue-400">
-                                    <FaLinkedinIn />
-                                    <FaLinkedinIn />
-                                    <FaLinkedinIn />
-                                    <FaLinkedinIn />
-                                </div>
+                        
                             </div>
                         {/* </motion.div> */}
                         <form className="flex-1 border rounded-2xl flex flex-col gap-y-6 pb-[4rem] p-[28px] items-start">
